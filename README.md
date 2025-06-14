@@ -181,10 +181,6 @@ No additional environment variables required for basic functionality.
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🙏 Acknowledgments
 
 - Built with Next.js and Vercel
