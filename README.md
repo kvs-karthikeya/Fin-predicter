@@ -1,4 +1,5 @@
 # Fin-predicter
+Explanatory video- [https://drive.google.com/file/d/1vG4xtHRfW4SGKcTo99TbQ2U6-yEXYdJZ/view?usp=sharing](https://drive.google.com/file/d/1vG4xtHRfW4SGKcTo99TbQ2U6-yEXYdJZ/view?usp=sharing)
 # Churn Prediction Dashboard
 
 A comprehensive machine learning solution for predicting customer churn with an interactive dashboard built on Next.js and deployed on Vercel.
